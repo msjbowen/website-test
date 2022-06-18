@@ -1,39 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Miriam Bowen
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
+  - name: University of Leeds
+    url: https://www.leeds.ac.uk/
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include self-referential probability and rationality. 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Self-Referential Probability
+  - Imprecise Credences
+  - Liar Parardox
+  - Vagueness and Indeterminacy
+  - Suspended Judgment
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Philosophy
+      institution: University of Leeds
+      year: 2022
+    - course: MA in Logic and Philosophy of Mathematics
+      institution: University of Bristol
+      year: 2017
+    - course: BSc in Mathematics and Philosophy with specialism in Logic and Foundations
+      institution: University of Warwick
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,16 +43,17 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+  #  link: '/#contact'
+  link: "mailto: miriamsjbowen@gmail.com"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/miriamsjbowen
+ # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+ #   icon_pack: fas
+ #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/msjbowen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -70,8 +72,8 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I work on self-referential probability and rationality. Self-referential probability senarios are situations where the agent's credences can act as evidence for the truth or likelihood of a proposition. My focus has been on the Probabilistic Liar, which has structural similarity to the Liar paradox. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In my PhD I used the Probabilistic Liar as a useful example and focus to explore the suspended judgment in a credal framwork, norms of rationality and their underlying logics, the nature of degrees of belief and problems for indeterminacy and the logic of higher order indeterminacy. I am now working on extending my account of indeterminacy to decision theory.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I also have an interest in questions about the connection between belief formation and imagination. I am interested in these questions in the context of self-deception.
